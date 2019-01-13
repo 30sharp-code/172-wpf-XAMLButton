@@ -1,0 +1,12 @@
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\bin\Debug\ButtonsSample.exe
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\bin\Debug\ButtonsSample.pdb
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\obj\Debug\Window1.baml
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\obj\Debug\App.g.cs
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\obj\Debug\ButtonsSample_MarkupCompile.cache
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\obj\Debug\ButtonsSample.g.resources
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\obj\Debug\ButtonsSample.Properties.Resources.resources
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\obj\Debug\ButtonsSample.csproj.GenerateResource.Cache
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\obj\Debug\ButtonsSample.exe
+C:\Documents and Settings\Borna\My Documents\Visual Studio 2008\Projects\ButtonsSample\ButtonsSample\obj\Debug\ButtonsSample.pdb
